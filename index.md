@@ -1,4 +1,4 @@
-Extent   terminology guideline | Source:   Thesaurus for Graphic Materials   http://www.loc.gov/pictures/collection/tgm/
+Extent   terminology | Source:   Thesaurus for Graphic Materials   http://www.loc.gov/pictures/collection/tgm/
 -- | --
   |  
 Term | Scope note
